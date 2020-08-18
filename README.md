@@ -12,8 +12,8 @@ Example:
 python pageranktask.py edges-edu.txt vertices-edu.txt
 ```
 ## Input
-Input for this program has to arranged in the form of two files that describe vertice and edge information.
-Follwing sample input files have been included:
+Input for this program has to be arranged in the form of two files that describe vertice and edge information.
+Follwing sample input files have been included for better understanding:
 * edges-file : edges-edu.txt, toy-edges.txt
 * vertices-file : vertices-edu.txt, toy-vertices.txt
 
